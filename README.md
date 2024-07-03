@@ -1,6 +1,6 @@
 ## Claude Browser Integration
 
-This is a simple script that allows for claude to browse the internet!# claude-browser-enabled.
+This is a simple script that allows for claude to browse the internet!
 
 ![User Interface](https://github.com/nem-bla/claude-browser-enabled/blob/main/images/userInterface.png)
 
